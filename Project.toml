@@ -1,0 +1,9 @@
+name = "InvalidationsTest"
+uuid = "d043c650-52be-582d-9d63-5118bec3bc1a"
+author = ["Hendrik Ranocha"]
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1.6"
